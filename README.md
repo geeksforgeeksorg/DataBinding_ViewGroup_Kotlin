@@ -1,2 +1,2 @@
-# DataBinding_ViewGroup_Kotlin
+# Data Binding ViewGroup Kotlin
 Application with the Data Binding Implementation with 
